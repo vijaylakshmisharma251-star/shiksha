@@ -1,0 +1,5 @@
+<marquee>dhanghata sant kabir nagar</marquee>
+<b><center>star computer </center></b><br>
+<u>star computer</u><br>
+<i>star computer </i><br>
+<strike >star computer</strike><br>
